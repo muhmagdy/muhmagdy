@@ -22,7 +22,7 @@
 I am a second-year computer engineering student in [Alexandria University](https://eng.alexu.edu.eg/index.php/en/) 💻💻.  
 
 - 🗺️ Location: Alexandria, Egypt
-- ⚡ I'm currently working on building my [website](muhammadmagdy.com)
+- ⚡ I'm currently working on building my [website](https://muhammadmagdy.com)
 - 🌱 I'm keen on learning AI and Machine Learning
 - 👯 I'm looking to collaberate in opensource communities
 - 📫 How to reach me: muh.magdy1@gmail.com 
