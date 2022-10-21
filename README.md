@@ -19,7 +19,7 @@
 </h1>
 
 ### 👨‍💻 About Me:
-I am a second-year computer engineering student in [Alexandria University](https://eng.alexu.edu.eg/index.php/en/) 💻💻.  
+I am a third-year computer engineering student in [Alexandria University](https://eng.alexu.edu.eg/index.php/en/) 💻💻.  
 
 - 🗺️ Location: Alexandria, Egypt
 - ⚡ I'm currently working on building my [website](https://muhammadmagdy.com)
